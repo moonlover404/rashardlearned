@@ -4,7 +4,7 @@
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
 
 ![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
-
+![RASHARD](https://ia600707.us.archive.org/21/items/tumblr_ruv49p1aDF1zhx4f1/rashard_iman_kelly_NASAJPL_TAKLENBY_JOSE_m_Pi.jpg)
 ![Thumbnail of Rashard](https://pbs.twimg.com/media/GYBdj5Eb0AI5dIy?format=jpg&name=large)
 
 
